@@ -16,7 +16,7 @@ export const About = () => {
                   <span className='absolute left-auto -right-2.5 z-10 h-10 w-2.5 animate-ledgertopbottom rounded-full bg-gradient-to-b from-transparent to-primary'></span>
                   <img
                     alt='Moeen Malik'
-                    loading='lazy'
+                    loading='eager'
                     width='660'
                     height='422'
                     decoding='async'
